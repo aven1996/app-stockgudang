@@ -1,0 +1,19 @@
+v1.5
+perbaikan bug di bagian restore pengambilan di baris pertama
+
+v1.4
+tambah paraf kepala TU dan Petugas
+
+v1.3
+cetak invoice multi barang (data yang terpilih/tercentang)
+
+v1.2
+penambahan cetak invoice pengambilan barang
+fix upload kop sekolah
+
+v1.1
+fix bug n error
+fix ukuran table yang dinamis pada tombol
+
+v1.0
+launching
